@@ -9,6 +9,7 @@ echo '<!DOCTYPE html>
         <link href="css/style.css" rel="stylesheet">
     </head>
     <body>
-        <p>Bienvenido a Happy Funfair</p>
+        <h4>Bienvenido a Happy Funfair</h4><br>
+        <p>Voy a ser su guia en esta aventura de texto</p>
     </body>
 </html>';
