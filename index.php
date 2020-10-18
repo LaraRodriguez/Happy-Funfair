@@ -1,4 +1,6 @@
-<!DOCTYPE html>
+<?php
+
+echo '<!DOCTYPE html>
 <html lang="en">
     <head>
         <title></title>
@@ -9,4 +11,4 @@
     <body>
         <p>Bienvenido a Happy Funfair</p>
     </body>
-</html>
+</html>';
